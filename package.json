@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callbacks/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoDom/asincronismo.git"
+  },
+  "keywords": [],
+  "author": "Diego Domínguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoDom/asincronismo/issues"
+  },
+  "homepage": "https://github.com/DiegoDom/asincronismo#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
